@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is k Thejaswi and I'm  from Andhra Pradesh,Chittoor </h2>
+<img align="t" height="150" src="https://img.freepik.com/premium-vector/lone-analyst-surrounded-by-sea-charts-spreadsheets-conducting-detailed-analysis_216520-128468.jpg"  />
 
-###
 <div align="center">  
 </div>
 
@@ -12,13 +12,6 @@
 | 📈 Excel     | Advanced     | 🟡🟡🟡🟢⚪ |
 | 📉 Tableau   | Beginner     | 🟡⚪⚪⚪⚪ |
 </div>
-
-###
-
-<img align="Top" height="150" src="https://img.freepik.com/premium-vector/lone-analyst-surrounded-by-sea-charts-spreadsheets-conducting-detailed-analysis_216520-128468.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://techorigine.com/wp-content/uploads/2024/06/mysql-la-gi-870x457.png" height="30" alt="Mysql logo"  />
   <img width="12" />
