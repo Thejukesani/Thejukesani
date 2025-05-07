@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is k Thejaswi and I'm  from Andhra Pradesh,Chittoor </h2>
+![ChatGPT Image May 7, 2025, 02_52_16 PM](https://github.com/user-attachments/assets/1579a0cb-fdf7-4ad4-b89c-632bd105ee79)<h2 align="left">Hi 👋! My name is k Thejaswi and I'm  from Andhra Pradesh,Chittoor </h2>
 <img align="t" height="150" src="https://img.freepik.com/premium-vector/lone-analyst-surrounded-by-sea-charts-spreadsheets-conducting-detailed-analysis_216520-128468.jpg"  />
 
 <div align="center">  
