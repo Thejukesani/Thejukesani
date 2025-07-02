@@ -29,8 +29,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ---
----
-
 ### 🌟 Fun Facts
 - 🌱 I’m currently learning **Data Analytics**
 - 💬 Ask me about **Python, Excel,tableau,sql, Power BI**
