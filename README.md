@@ -32,11 +32,20 @@
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kesanithejaswi&theme=dracula&show_icons=true" alt="kesanithejaswi's Github Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kesanithejaswi&theme=dracula&show_icons=true" />
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesanithejaswi&layout=compact&theme=dracula&show_icons=true" alt="Most Used Languages"/>
-  </p>
+ ### 👋 Hello! I'm Thejukesani
+
+Welcome to my GitHub profile! Here's a quick overview of my contributions and projects.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejukesani&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejukesani&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=thejukesani&theme=radical)
+
 </div>
 
 
