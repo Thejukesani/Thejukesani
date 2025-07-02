@@ -29,26 +29,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ---
-
-### 📊 GitHub Stats  
-<div align="center">
- ### 👋 Hello! I'm Thejukesani
-
-Welcome to my GitHub profile! Here's a quick overview of my contributions and projects.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejukesani&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejukesani&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=thejukesani&theme=radical)
-
-</div>
-
-
 ---
 
 ### 🌟 Fun Facts
