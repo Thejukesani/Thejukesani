@@ -1,29 +1,65 @@
-<h2 align="left">Hi 👋! My name is k Thejaswi and I'm  from Andhra Pradesh,Chittoor </h2>
-<img align="t" height="150" src="https://img.freepik.com/premium-vector/lone-analyst-surrounded-by-sea-charts-spreadsheets-conducting-detailed-analysis_216520-128468.jpg"  />
+<h2 align="center">kesani, Thejaswi here! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<div align="center">  
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+### 🚀 About Me
+🎓 **Aspiring Data Analyst** | **MCA in Computer Science**   
+🏫 Graduated from **[Vijayam Business School]**  
+💡 Passionate about **Data Analytics, Machine Learning, and Data**  
+📌 Exploring ****Python, Power BI, and Cloud Technologies,Sql,Excel&AdvanceExcel** **  
+
+---
+
+### 💻 Tech Stack
+
+- **Programming Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+
+
+- **Data Science & Analytics:**  
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+  ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+
+- **Version Control & DevOps:**  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kesanithejaswi&theme=dracula&show_icons=true" alt="kesanithejaswi's Github Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kesanithejaswi&theme=dracula&show_icons=true" />
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesanithejaswi&layout=compact&theme=dracula&show_icons=true" alt="Most Used Languages"/>
+  </p>
 </div>
 
-| Skill        | Level     | Emoji |
-|--------------|-----------|-------|
-| 🐍 Python     | Intermediate | 🟡🟡🟢⚪⚪ |
-| 🗃 MySQL      | Intermediate | 🟡🟡🟢⚪⚪ |
-| 📊 Power BI  | Advanced     | 🟡🟡🟢⚪⚪ |
-| 📈 Excel     | Advanced     | 🟡🟡🟡🟢⚪ |
-| 📉 Tableau   | Beginner     | 🟡⚪⚪⚪⚪ |
-</div>
-<div align="left">
-  <img src="https://techorigine.com/wp-content/uploads/2024/06/mysql-la-gi-870x457.png" height="30" alt="Mysql logo"  />
-  <img width="12" />
-  <img src="https://www.pcworld.com/wp-content/uploads/2025/04/microsoft_excel_logo_primary_resized2-100726640-orig-25.jpg?quality=50&strip=all" height="30" alt="Excel logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://its.ucr.edu/media/1521/download?attachment" height="30" alt="powerbi logo"  />
-  <img width="12" />
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" height="30" alt="Tableau logo"  />
-</div>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
+---
+
+### 🌟 Fun Facts
+- 🌱 I’m currently learning **Data Analytics**
+- 💬 Ask me about **Python, Excel,tableau,sql, Power BI**
+- 🎯 Currently doing **#100DaysOfCode focused on Python & Data Analytics**
+- ⚡ Fun fact: I binge-watch anime at **2x speed** ⚡
+
+---
+
+### 📬 Connect with Me  
+<p align="center">
+<a href="https://github.com/drish08" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+<a href="mailto:kesanithejaswi2001@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Thejaswi" alt="Profile Views" />
+</p>
